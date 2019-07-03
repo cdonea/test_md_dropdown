@@ -20,6 +20,7 @@
 
 #### yes, even hidden code blocks!
 
+<code>Mac/Ubuntu</code>
 ```python
 print("hello world!")
 ```

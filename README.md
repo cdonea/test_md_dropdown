@@ -1,7 +1,10 @@
 
 ## Prerequisites
 
-<details><summary><h3>Mac</h3></summary>
+<details>
+   <summary>
+   <strong>Mac</strong>
+   </summary>
 <br>
 <p>
 

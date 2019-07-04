@@ -5,7 +5,7 @@
 <details><summary>nvm</summary>
    <ul><li>
 
-- [ ] Mercury
+[ ] Mercury
    ```bash
 
    ```

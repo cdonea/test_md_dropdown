@@ -1,36 +1,25 @@
 
-
 ## Prerequisites
-###### [ ] NVM
-
+###### [ ] Unchecked  
 <details><summary>nvm</summary>
-<br>
-   
-<p>
+   <ul><li>
 
-###### [ ] NVM
+   ```bash
 
-```bash
-   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
-```
-</p>
+   ```
+   </li></ul>
 </details>
 
 
+## collapsible markdown?
 
-
-<details><summary>zsh</summary>
-<br>
+<details><summary>CLICK ME</summary>
 <p>
 
-<code>Mac</code>
-```bash
-brew install zsh
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
 ```
 
-<code>Mac/Ubuntu</code>
-```bash
-apt install zsh
-```
 </p>
-</details>

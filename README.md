@@ -1,9 +1,11 @@
 
 ## Prerequisites
+- [ ] ###### Mercury
 ###### [ ] Unchecked  
 <details><summary>nvm</summary>
    <ul><li>
 
+- [ ] Mercury
    ```bash
 
    ```

@@ -1,12 +1,14 @@
 
 
 ## Prerequisites
+###### [ ] NVM
 
 <details><summary>nvm</summary>
 <br>
-###### [ ] NVM
+   
 <p>
 
+###### [ ] NVM
 
 ```bash
    curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash

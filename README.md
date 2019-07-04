@@ -1,27 +1,15 @@
 
 ## Prerequisites
-- [ ] ###### Mercury
-###### [ ] Unchecked  
-<details><summary>nvm</summary>
-   <ul><li>
 
-[ ] Mercury
-   ```bash
-
-   ```
-   </li></ul>
-</details>
-
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
+<details><summary><h3>Mac</h3></summary>
+<br>
 <p>
 
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
+```bash
+   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
 ```
 
+
 </p>
+</details>
+
